@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1be86da-6b19-4e4b-bf44-4a4dae776bd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spyders/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/spyders/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spyders/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/spyders/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spyders/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/spyders/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spyders/spiders/followwebsite.py" beforeDir="false" afterPath="$PROJECT_DIR$/spyders/spiders/followwebsite.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spyders" />
+  </component>
+  <component name="ProjectId" id="1bTHPfxVhMALX9ASn2rKmhJvf62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LawCases" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kdejesus\PycharmProjects\scrapy\spyders" />
+      <recent name="C:\Users\kdejesus\PycharmProjects\scrapy" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="306" key="FileChooserDialogImpl" timestamp="1596490244879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596490244879" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1589043065325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589043065325" />
+  </component>
+</project>

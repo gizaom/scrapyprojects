@@ -1,0 +1,18 @@
+Server: openresty
+Date: Sat, 09 May 2020 12:39:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Express
+P3P: CP="This site does not have a p3p policy."
+X-Frame-Options: DENY
+Set-Cookie: vrid=c969063f-0b78-4067-9db1-ba42107f732c; Max-Age=63072000; Domain=.yellowpages.com; Path=/; Expires=Mon, 09 May 2022 12:39:05 GMT
+Set-Cookie: bucket=ypu%3Aypu%3Adefault; Max-Age=3600; Domain=.yellowpages.com; Path=/; Expires=Sat, 09 May 2020 13:39:05 GMT
+Set-Cookie: bucketsrc=default; Max-Age=3600; Domain=.yellowpages.com; Path=/; Expires=Sat, 09 May 2020 13:39:05 GMT
+Set-Cookie: location=geo_term%3AOR%7Clat%3A43.86833%7Clng%3A-120.97833%7Ccity%3A%7Cstate%3AOR%7Cdisplay_geo%3AOR; Max-Age=31536000; Domain=.yellowpages.com; Path=/; Expires=Sun, 09 May 2021 12:39:05 GMT
+Set-Cookie: search_terms=Computer%20%26%20Equipment%20Dealers; Max-Age=31536000; Domain=.yellowpages.com; Path=/; Expires=Sun, 09 May 2021 12:39:05 GMT
+Set-Cookie: bucket=ypu%3Aypu%3Adefault; Max-Age=3600; Domain=.yellowpages.com; Path=/; Expires=Sat, 09 May 2020 13:39:05 GMT
+Set-Cookie: bucketsrc=default; Max-Age=3600; Domain=.yellowpages.com; Path=/; Expires=Sat, 09 May 2020 13:39:05 GMT
+Set-Cookie: express:sess=eyJka3MiOiI0MWY4MTllMS00M2ZhLTQyYTUtYmU3ZC0zZmRjYjY1ZDE4MzMiLCJwcmV2aW91c1BhZ2UiOiJzcnAifQ==; path=/; expires=Mon, 09 May 2022 12:39:05 GMT; httponly
+Set-Cookie: express:sess.sig=YxguZGA8Rvzmcn-WZr-MAsO4iTE; path=/; expires=Mon, 09 May 2022 12:39:05 GMT; httponly
+Vary: User-Agent, Accept-Encoding
+Cache-Control: no-cache, no-store
+Content-Encoding: gzip

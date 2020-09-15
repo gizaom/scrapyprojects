@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: <?php echo "http://" . $_SERVER["SERVER_NAME"] . str_replace ("robots.txt", "", $_SERVER["REQUEST_URI"]) . "sitemap.xml"; ?>
